@@ -1,0 +1,10 @@
+name: DispensablePlants
+author: Element
+version: 1.0.0
+main: me.element.dispenserplants.DispensablePlants
+description: Highly customizable plugin to plant crops with dispensers.
+api-version: 1.16
+
+commands:
+  dispensableplants:
+    aliases: dpgui
